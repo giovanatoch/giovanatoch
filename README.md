@@ -4,11 +4,11 @@
 
 Transformo ideias em experiências digitais funcionais, sempre priorizando:
 
-📱 Responsividade real (mobile first)
-♿ Acessibilidade (UX inclusiva)
-⚡ Performance
-🧩 Componentização inteligente
-📐 Código limpo e escalável
+📱 Responsividade real (mobile first)<br>
+♿ Acessibilidade (UX inclusiva)<br>
+⚡ Performance<br>
+🧩 Componentização inteligente<br>
+📐 Código limpo e escalável<br>
 
 Acredito que front-end não é só “fazer tela bonita” — é construir experiências eficientes, intuitivas e sustentáveis.
 
@@ -32,16 +32,14 @@ Para o desenvolvimento dos meus projetos utilizo as seguintes tecnologias:
 
 Tenho um pé curioso no back-end também 🧠
 
-🐍 Python – porque é elegante
-🟣 C# – porque é poderoso
+🐍 Python – porque é elegante<br>
+🟣 C# – porque é poderoso<br>
 🗄 APIs, lógica de negócio e banco de dados não me assustam!
 
 ##
 
-💬 Resumindo
-
-Front-End é minha especialidade.
-Experiência do usuário é minha prioridade.
+Front-End é minha especialidade.<br>
+Experiência do usuário é minha prioridade.<br>
 Aprender coisa nova é meu hobby.
 
 Se for pra construir, vamos construir direito 🚀
